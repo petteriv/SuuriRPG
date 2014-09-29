@@ -2,7 +2,8 @@ fileFormatVersion: 2
 guid: e280c1599d07dee4586ff458f4c7a05f
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - pelaaja: {fileID: 100000, guid: 753c48ee14a948d4aab5dfd8e2fea045, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
